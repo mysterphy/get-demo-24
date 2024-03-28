@@ -5,3 +5,7 @@ function feature() {
 function newFeature() {
   console.log('New');
 }
+
+function anotherFeature() {
+  console.log('Cool');
+}
